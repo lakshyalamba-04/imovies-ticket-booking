@@ -5,8 +5,6 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** cinema ticketing 
 ---
 
 ## 🌟 Demo & Access Links
-
-- **Demo URL :** https://imovies-ticket-booking-kappa.vercel.app
 - **Demo Video :** https://youtu.be/mXAHM8quf4c
 ---
 
