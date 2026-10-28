@@ -6,7 +6,7 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** cinema ticketing 
 
 ## 🌟 Demo & Access Links
 
-- **Permanent Live Demo URL (Hosted on GitHub Pages - 24/7 Online):** [https://lakshyalamba-04.github.io/imovies-ticket-booking/](https://lakshyalamba-04.github.io/imovies-ticket-booking/)
+- **Demo URL:** [https://lakshyalamba-04.github.io/imovies-ticket-booking/](https://lakshyalamba-04.github.io/imovies-ticket-booking/)
 ---
 
 ## 🚀 Key Features
@@ -80,16 +80,3 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** cinema ticketing 
 - **Database:** MongoDB & Mongoose with zero-configuration in-memory/JSON fallback so it runs instantly without requiring a local mongod daemon!
 
 ---
-
-## 💻 Running Locally
-
-```bash
-# Navigate to project folder
-cd C:\Users\laksh\.gemini\antigravity\scratch\imovies-app
-
-# Start the unified production server
-npm start
-
-# Open your browser at
-http://localhost:5000
-```
