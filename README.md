@@ -6,13 +6,7 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** cinema ticketing 
 
 ## 🌟 Demo & Access Links
 
-- **Live Public Demo URL (Active & Verified):** [https://coupon-justice-enjoying-attract.trycloudflare.com](https://coupon-justice-enjoying-attract.trycloudflare.com)
-- **Local Demo URL:** [http://localhost:5000](http://localhost:5000)
-- **REST API Endpoint:** [https://coupon-justice-enjoying-attract.trycloudflare.com/api/movies](https://coupon-justice-enjoying-attract.trycloudflare.com/api/movies)
-- **Last Booking API:** [https://coupon-justice-enjoying-attract.trycloudflare.com/api/booking/last](https://coupon-justice-enjoying-attract.trycloudflare.com/api/booking/last)
-- **Project Directory:** `C:\Users\laksh\.gemini\antigravity\scratch\imovies-app`
-- **One-Click Windows Launcher:** `C:\Users\laksh\.gemini\antigravity\scratch\imovies-app\start-imovies.bat`
-
+- **Live Public Demo URL:** [https://coupon-justice-enjoying-attract.trycloudflare.com](https://coupon-justice-enjoying-attract.trycloudflare.com)
 ---
 
 ## 🚀 Key Features
