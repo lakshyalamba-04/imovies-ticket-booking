@@ -6,7 +6,11 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** cinema ticketing 
 
 ## 🌟 Demo & Access Links
 
-- **Live Public Demo URL:** [https://coupon-justice-enjoying-attract.trycloudflare.com](https://coupon-justice-enjoying-attract.trycloudflare.com)
+- **Permanent Live Demo URL (Hosted on GitHub Pages - 24/7 Online):** [https://lakshyalamba-04.github.io/imovies-ticket-booking/](https://lakshyalamba-04.github.io/imovies-ticket-booking/)
+- **GitHub Repository URL:** [https://github.com/lakshyalamba-04/imovies-ticket-booking](https://github.com/lakshyalamba-04/imovies-ticket-booking)
+- **Local Demo URL:** [http://localhost:5000](http://localhost:5000)
+- **Project Directory:** `C:\Users\laksh\.gemini\antigravity\scratch\imovies-app`
+
 ---
 
 ## 🚀 Key Features
